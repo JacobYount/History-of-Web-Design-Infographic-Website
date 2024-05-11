@@ -1,1 +1,3 @@
 # History-of-Web-Design-Infographic-Website
+
+This History Website/Project was made as a presentation for one of my classes unrelated to website development or programming, so as a result I didn't have as much time to create the actual website from scratch because the content on the site was what was being graded in this specific class, but as a fun challenge I wanted to make my class presentation into a website instead of a regular slideshow. I used a template off of HTML 5up to get started, then I adjusted and built upon the HTML, CSS, and JS to personalize and turn the website into what I wanted/needed for my class history presentation.
